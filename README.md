@@ -6,12 +6,12 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="LICENSE" >
-    <img src="https://img.shields.io/github/contributors/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/issues/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/license/HarshGodxpro/PROFFESOR?style=for-the-badge&logo=appveyor" alt="LICENSE" >
+    <img src="https://img.shields.io/github/contributors/HarshGodxpro/PROFFESOR?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/HarshGodxpro/PROFFESOR?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/issues/HarshGodxpro/PROFFESOR?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/HarshGodxpro/PROFFESOR?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/HarshGodxpro/PROFFESOR?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
 
 ## Features
