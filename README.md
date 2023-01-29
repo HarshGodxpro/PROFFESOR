@@ -139,7 +139,7 @@ python3 bot.py
 * /font - fonts for your text
 * /deletefiles - PreDvD CamRip deletion
 ```
-<b> 😇CREATOR » [Aswin](https://t.me/Aswin_pm_Bot)</b>
+<b> 😇CREATOR » [HARSH](https://t.me/MOVIE_LAND_2_BACKUP)</b>
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
