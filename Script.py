@@ -9,7 +9,7 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MOVIE_LAND_2_BACKUP>𝙈𝙊𝙑𝙄𝙀𝙇𝘼𝙉𝘿</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/backup_MovieLand4K>𝙈𝙊𝙑𝙄𝙀𝙇𝘼𝙉𝘿</a>
 ✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: <a href=https://t.me/PROFE07XH>🇮🇳𝙃𝘼𝙍𝙎𝙃𝙍𝘼𝙅🇮🇳</a>
 ✯ 𝙳𝙴𝚅: <a href=https://t.me/PROFE07XH>🤩𝙋𝙍𝙊𝙁𝙁𝙀𝙎𝙊𝙍🤩</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -302,7 +302,7 @@ Elsa
 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/MOVIE_LAND_2_BACKUP> ᴄʜᴀɴɴᴇʟ </a>
+▫️<a href=https://t.me/+OT4QoXnLUh9hZTBl> ᴄʜᴀɴɴᴇʟ </a>
 
 ▫️<a href=https://t.me/+gooL_Tqzgo5jNjk1> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
